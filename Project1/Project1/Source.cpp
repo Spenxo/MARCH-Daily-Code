@@ -4,9 +4,9 @@
 using namespace std;
 int main() {
 	string invetnory[5];
-	string input; //initalized with dummy value
 	int room = 1;
 
+	  
 
 
 	while (input.compare("q") != 0) { //game loop
